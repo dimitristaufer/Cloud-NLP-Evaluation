@@ -1,0 +1,1294 @@
+<tbody>
+<tr>
+<td>/Adult</td>
+<td>/Hobbies &amp; Leisure</td>
+</tr>
+<tr>
+<td>/Arts &amp; Entertainment</td>
+<td>/Hobbies &amp; Leisure/Clubs &amp; Organizations</td>
+</tr>
+<tr>
+<td>/Arts &amp; Entertainment/Celebrities &amp; Entertainment News</td>
+<td>/Hobbies &amp; Leisure/Clubs &amp; Organizations/Youth Organizations &amp; Resources</td>
+</tr>
+<tr>
+<td>/Arts &amp; Entertainment/Comics &amp; Animation</td>
+<td>/Hobbies &amp; Leisure/Crafts</td>
+</tr>
+<tr>
+<td>/Arts &amp; Entertainment/Comics &amp; Animation/Anime &amp; Manga</td>
+<td>/Hobbies &amp; Leisure/Crafts/Fiber &amp; Textile Arts</td>
+</tr>
+<tr>
+<td>/Arts &amp; Entertainment/Comics &amp; Animation/Cartoons</td>
+<td>/Hobbies &amp; Leisure/Merit Prizes &amp; Contests</td>
+</tr>
+<tr>
+<td>/Arts &amp; Entertainment/Comics &amp; Animation/Comics</td>
+<td>/Hobbies &amp; Leisure/Outdoors</td>
+</tr>
+<tr>
+<td>/Arts &amp; Entertainment/Entertainment Industry</td>
+<td>/Hobbies &amp; Leisure/Outdoors/Fishing</td>
+</tr>
+<tr>
+<td>/Arts &amp; Entertainment/Entertainment Industry/Film &amp; TV Industry</td>
+<td>/Hobbies &amp; Leisure/Outdoors/Hiking &amp; Camping</td>
+</tr>
+<tr>
+<td>/Arts &amp; Entertainment/Entertainment Industry/Recording Industry</td>
+<td>/Hobbies &amp; Leisure/Paintball</td>
+</tr>
+<tr>
+<td>/Arts &amp; Entertainment/Events &amp; Listings</td>
+<td>/Hobbies &amp; Leisure/Radio Control &amp; Modeling</td>
+</tr>
+<tr>
+<td>/Arts &amp; Entertainment/Events &amp; Listings/Bars, Clubs &amp; Nightlife</td>
+<td>/Hobbies &amp; Leisure/Radio Control &amp; Modeling/Model Trains &amp; Railroads</td>
+</tr>
+<tr>
+<td>/Arts &amp; Entertainment/Events &amp; Listings/Concerts &amp; Music Festivals</td>
+<td>/Hobbies &amp; Leisure/Special Occasions</td>
+</tr>
+<tr>
+<td>/Arts &amp; Entertainment/Events &amp; Listings/Expos &amp; Conventions</td>
+<td>/Hobbies &amp; Leisure/Special Occasions/Holidays &amp; Seasonal Events</td>
+</tr>
+<tr>
+<td>/Arts &amp; Entertainment/Events &amp; Listings/Film Festivals</td>
+<td>/Hobbies &amp; Leisure/Special Occasions/Weddings</td>
+</tr>
+<tr>
+<td>/Arts &amp; Entertainment/Events &amp; Listings/Movie Listings &amp; Theater Showtimes</td>
+<td>/Hobbies &amp; Leisure/Water Activities</td>
+</tr>
+<tr>
+<td>/Arts &amp; Entertainment/Fun &amp; Trivia</td>
+<td>/Hobbies &amp; Leisure/Water Activities/Boating</td>
+</tr>
+<tr>
+<td>/Arts &amp; Entertainment/Fun &amp; Trivia/Flash-Based Entertainment</td>
+<td>/Hobbies &amp; Leisure/Water Activities/Surf &amp; Swim</td>
+</tr>
+<tr>
+<td>/Arts &amp; Entertainment/Fun &amp; Trivia/Fun Tests &amp; Silly Surveys</td>
+<td>/Home &amp; Garden</td>
+</tr>
+<tr>
+<td>/Arts &amp; Entertainment/Humor</td>
+<td>/Home &amp; Garden/Bed &amp; Bath</td>
+</tr>
+<tr>
+<td>/Arts &amp; Entertainment/Humor/Funny Pictures &amp; Videos</td>
+<td>/Home &amp; Garden/Bed &amp; Bath/Bathroom</td>
+</tr>
+<tr>
+<td>/Arts &amp; Entertainment/Humor/Political Humor</td>
+<td>/Home &amp; Garden/Domestic Services</td>
+</tr>
+<tr>
+<td>/Arts &amp; Entertainment/Movies</td>
+<td>/Home &amp; Garden/Domestic Services/Cleaning Services</td>
+</tr>
+<tr>
+<td>/Arts &amp; Entertainment/Music &amp; Audio</td>
+<td>/Home &amp; Garden/Gardening &amp; Landscaping</td>
+</tr>
+<tr>
+<td>/Arts &amp; Entertainment/Music &amp; Audio/CD &amp; Audio Shopping</td>
+<td>/Home &amp; Garden/Home &amp; Interior Decor</td>
+</tr>
+<tr>
+<td>/Arts &amp; Entertainment/Music &amp; Audio/Classical Music</td>
+<td>/Home &amp; Garden/Home Appliances</td>
+</tr>
+<tr>
+<td>/Arts &amp; Entertainment/Music &amp; Audio/Country Music</td>
+<td>/Home &amp; Garden/Home Furnishings</td>
+</tr>
+<tr>
+<td>/Arts &amp; Entertainment/Music &amp; Audio/Dance &amp; Electronic Music</td>
+<td>/Home &amp; Garden/Home Furnishings/Curtains &amp; Window Treatments</td>
+</tr>
+<tr>
+<td>/Arts &amp; Entertainment/Music &amp; Audio/Experimental &amp; Industrial Music</td>
+<td>/Home &amp; Garden/Home Furnishings/Kitchen &amp; Dining Furniture</td>
+</tr>
+<tr>
+<td>/Arts &amp; Entertainment/Music &amp; Audio/Jazz &amp; Blues</td>
+<td>/Home &amp; Garden/Home Furnishings/Lamps &amp; Lighting</td>
+</tr>
+<tr>
+<td>/Arts &amp; Entertainment/Music &amp; Audio/Music Education &amp; Instruction</td>
+<td>/Home &amp; Garden/Home Furnishings/Living Room Furniture</td>
+</tr>
+<tr>
+<td>/Arts &amp; Entertainment/Music &amp; Audio/Music Equipment &amp; Technology</td>
+<td>/Home &amp; Garden/Home Furnishings/Rugs &amp; Carpets</td>
+</tr>
+<tr>
+<td>/Arts &amp; Entertainment/Music &amp; Audio/Music Reference</td>
+<td>/Home &amp; Garden/Home Improvement</td>
+</tr>
+<tr>
+<td>/Arts &amp; Entertainment/Music &amp; Audio/Music Streams &amp; Downloads</td>
+<td>/Home &amp; Garden/Home Improvement/Construction &amp; Power Tools</td>
+</tr>
+<tr>
+<td>/Arts &amp; Entertainment/Music &amp; Audio/Music Videos</td>
+<td>/Home &amp; Garden/Home Improvement/Doors &amp; Windows</td>
+</tr>
+<tr>
+<td>/Arts &amp; Entertainment/Music &amp; Audio/Pop Music</td>
+<td>/Home &amp; Garden/Home Improvement/Flooring</td>
+</tr>
+<tr>
+<td>/Arts &amp; Entertainment/Music &amp; Audio/Radio</td>
+<td>/Home &amp; Garden/Home Improvement/House Painting &amp; Finishing</td>
+</tr>
+<tr>
+<td>/Arts &amp; Entertainment/Music &amp; Audio/Religious Music</td>
+<td>/Home &amp; Garden/Home Improvement/Plumbing</td>
+</tr>
+<tr>
+<td>/Arts &amp; Entertainment/Music &amp; Audio/Rock Music</td>
+<td>/Home &amp; Garden/Home Safety &amp; Security</td>
+</tr>
+<tr>
+<td>/Arts &amp; Entertainment/Music &amp; Audio/Soundtracks</td>
+<td>/Home &amp; Garden/Home Storage &amp; Shelving</td>
+</tr>
+<tr>
+<td>/Arts &amp; Entertainment/Music &amp; Audio/Urban &amp; Hip-Hop</td>
+<td>/Home &amp; Garden/Home Swimming Pools, Saunas &amp; Spas</td>
+</tr>
+<tr>
+<td>/Arts &amp; Entertainment/Music &amp; Audio/World Music</td>
+<td>/Home &amp; Garden/HVAC &amp; Climate Control</td>
+</tr>
+<tr>
+<td>/Arts &amp; Entertainment/Offbeat</td>
+<td>/Home &amp; Garden/HVAC &amp; Climate Control/Fireplaces &amp; Stoves</td>
+</tr>
+<tr>
+<td>/Arts &amp; Entertainment/Offbeat/Occult &amp; Paranormal</td>
+<td>/Home &amp; Garden/Kitchen &amp; Dining</td>
+</tr>
+<tr>
+<td>/Arts &amp; Entertainment/Online Media</td>
+<td>/Home &amp; Garden/Kitchen &amp; Dining/Cookware &amp; Diningware</td>
+</tr>
+<tr>
+<td>/Arts &amp; Entertainment/Online Media/Online Image Galleries</td>
+<td>/Home &amp; Garden/Kitchen &amp; Dining/Major Kitchen Appliances</td>
+</tr>
+<tr>
+<td>/Arts &amp; Entertainment/Performing Arts</td>
+<td>/Home &amp; Garden/Kitchen &amp; Dining/Small Kitchen Appliances</td>
+</tr>
+<tr>
+<td>/Arts &amp; Entertainment/Performing Arts/Acting &amp; Theater</td>
+<td>/Home &amp; Garden/Laundry</td>
+</tr>
+<tr>
+<td>/Arts &amp; Entertainment/Performing Arts/Circus</td>
+<td>/Home &amp; Garden/Laundry/Washers &amp; Dryers</td>
+</tr>
+<tr>
+<td>/Arts &amp; Entertainment/Performing Arts/Dance</td>
+<td>/Home &amp; Garden/Nursery &amp; Playroom</td>
+</tr>
+<tr>
+<td>/Arts &amp; Entertainment/Performing Arts/Magic</td>
+<td>/Home &amp; Garden/Pest Control</td>
+</tr>
+<tr>
+<td>/Arts &amp; Entertainment/Performing Arts/Opera</td>
+<td>/Home &amp; Garden/Yard &amp; Patio</td>
+</tr>
+<tr>
+<td>/Arts &amp; Entertainment/TV &amp; Video</td>
+<td>/Home &amp; Garden/Yard &amp; Patio/Lawn Mowers</td>
+</tr>
+<tr>
+<td>/Arts &amp; Entertainment/TV &amp; Video/Online Video</td>
+<td>/Internet &amp; Telecom</td>
+</tr>
+<tr>
+<td>/Arts &amp; Entertainment/TV &amp; Video/TV Commercials</td>
+<td>/Internet &amp; Telecom/Communications Equipment</td>
+</tr>
+<tr>
+<td>/Arts &amp; Entertainment/TV &amp; Video/TV Shows &amp; Programs</td>
+<td>/Internet &amp; Telecom/Communications Equipment/Radio Equipment</td>
+</tr>
+<tr>
+<td>/Arts &amp; Entertainment/Visual Art &amp; Design</td>
+<td>/Internet &amp; Telecom/Email &amp; Messaging</td>
+</tr>
+<tr>
+<td>/Arts &amp; Entertainment/Visual Art &amp; Design/Architecture</td>
+<td>/Internet &amp; Telecom/Email &amp; Messaging/Text &amp; Instant Messaging</td>
+</tr>
+<tr>
+<td>/Arts &amp; Entertainment/Visual Art &amp; Design/Art Museums &amp; Galleries</td>
+<td>/Internet &amp; Telecom/Email &amp; Messaging/Voice &amp; Video Chat</td>
+</tr>
+<tr>
+<td>/Arts &amp; Entertainment/Visual Art &amp; Design/Design</td>
+<td>/Internet &amp; Telecom/Mobile &amp; Wireless</td>
+</tr>
+<tr>
+<td>/Arts &amp; Entertainment/Visual Art &amp; Design/Painting</td>
+<td>/Internet &amp; Telecom/Mobile &amp; Wireless/Mobile &amp; Wireless Accessories</td>
+</tr>
+<tr>
+<td>/Arts &amp; Entertainment/Visual Art &amp; Design/Photographic &amp; Digital Arts</td>
+<td>/Internet &amp; Telecom/Mobile &amp; Wireless/Mobile Apps &amp; Add-Ons</td>
+</tr>
+<tr>
+<td>/Autos &amp; Vehicles</td>
+<td>/Internet &amp; Telecom/Mobile &amp; Wireless/Mobile Phones</td>
+</tr>
+<tr>
+<td>/Autos &amp; Vehicles/Bicycles &amp; Accessories</td>
+<td>/Internet &amp; Telecom/Service Providers</td>
+</tr>
+<tr>
+<td>/Autos &amp; Vehicles/Bicycles &amp; Accessories/Bike Parts &amp; Repair</td>
+<td>/Internet &amp; Telecom/Service Providers/Cable &amp; Satellite Providers</td>
+</tr>
+<tr>
+<td>/Autos &amp; Vehicles/Bicycles &amp; Accessories/BMX Bikes</td>
+<td>/Internet &amp; Telecom/Web Services</td>
+</tr>
+<tr>
+<td>/Autos &amp; Vehicles/Boats &amp; Watercraft</td>
+<td>/Internet &amp; Telecom/Web Services/Affiliate Programs</td>
+</tr>
+<tr>
+<td>/Autos &amp; Vehicles/Campers &amp; RVs</td>
+<td>/Internet &amp; Telecom/Web Services/Web Design &amp; Development</td>
+</tr>
+<tr>
+<td>/Autos &amp; Vehicles/Classic Vehicles</td>
+<td>/Jobs &amp; Education</td>
+</tr>
+<tr>
+<td>/Autos &amp; Vehicles/Commercial Vehicles/Cargo Trucks &amp; Trailers</td>
+<td>/Jobs &amp; Education/Education</td>
+</tr>
+<tr>
+<td>/Autos &amp; Vehicles/Motor Vehicles (By Type)</td>
+<td>/Jobs &amp; Education/Education/Colleges &amp; Universities</td>
+</tr>
+<tr>
+<td>/Autos &amp; Vehicles/Motor Vehicles (By Type)/Hybrid &amp; Alternative Vehicles</td>
+<td>/Jobs &amp; Education/Education/Distance Learning</td>
+</tr>
+<tr>
+<td>/Autos &amp; Vehicles/Motor Vehicles (By Type)/Motorcycles</td>
+<td>/Jobs &amp; Education/Education/Homeschooling</td>
+</tr>
+<tr>
+<td>/Autos &amp; Vehicles/Motor Vehicles (By Type)/Off-Road Vehicles</td>
+<td>/Jobs &amp; Education/Education/Primary &amp; Secondary Schooling (K-12)</td>
+</tr>
+<tr>
+<td>/Autos &amp; Vehicles/Motor Vehicles (By Type)/Trucks &amp; SUVs</td>
+<td>/Jobs &amp; Education/Education/Standardized &amp; Admissions Tests</td>
+</tr>
+<tr>
+<td>/Autos &amp; Vehicles/Vehicle Codes &amp; Driving Laws</td>
+<td>/Jobs &amp; Education/Education/Teaching &amp; Classroom Resources</td>
+</tr>
+<tr>
+<td>/Autos &amp; Vehicles/Vehicle Codes &amp; Driving Laws/Vehicle Licensing &amp; Registration</td>
+<td>/Jobs &amp; Education/Education/Training &amp; Certification</td>
+</tr>
+<tr>
+<td>/Autos &amp; Vehicles/Vehicle Parts &amp; Services</td>
+<td>/Jobs &amp; Education/Education/Vocational &amp; Continuing Education</td>
+</tr>
+<tr>
+<td>/Autos &amp; Vehicles/Vehicle Parts &amp; Services/Gas Prices &amp; Vehicle Fueling</td>
+<td>/Jobs &amp; Education/Jobs</td>
+</tr>
+<tr>
+<td>/Autos &amp; Vehicles/Vehicle Parts &amp; Services/Vehicle Parts &amp; Accessories</td>
+<td>/Jobs &amp; Education/Jobs/Career Resources &amp; Planning</td>
+</tr>
+<tr>
+<td>/Autos &amp; Vehicles/Vehicle Parts &amp; Services/Vehicle Repair &amp; Maintenance</td>
+<td>/Jobs &amp; Education/Jobs/Job Listings</td>
+</tr>
+<tr>
+<td>/Autos &amp; Vehicles/Vehicle Shopping</td>
+<td>/Jobs &amp; Education/Jobs/Resumes &amp; Portfolios</td>
+</tr>
+<tr>
+<td>/Autos &amp; Vehicles/Vehicle Shopping/Used Vehicles</td>
+<td>/Law &amp; Government</td>
+</tr>
+<tr>
+<td>/Autos &amp; Vehicles/Vehicle Shows</td>
+<td>/Law &amp; Government/Government</td>
+</tr>
+<tr>
+<td>/Beauty &amp; Fitness</td>
+<td>/Law &amp; Government/Government/Courts &amp; Judiciary</td>
+</tr>
+<tr>
+<td>/Beauty &amp; Fitness/Beauty Pageants</td>
+<td>/Law &amp; Government/Government/Visa &amp; Immigration</td>
+</tr>
+<tr>
+<td>/Beauty &amp; Fitness/Body Art</td>
+<td>/Law &amp; Government/Legal</td>
+</tr>
+<tr>
+<td>/Beauty &amp; Fitness/Cosmetic Procedures</td>
+<td>/Law &amp; Government/Legal/Bankruptcy</td>
+</tr>
+<tr>
+<td>/Beauty &amp; Fitness/Cosmetic Procedures/Cosmetic Surgery</td>
+<td>/Law &amp; Government/Legal/Legal Education</td>
+</tr>
+<tr>
+<td>/Beauty &amp; Fitness/Cosmetology &amp; Beauty Professionals</td>
+<td>/Law &amp; Government/Legal/Legal Services</td>
+</tr>
+<tr>
+<td>/Beauty &amp; Fitness/Face &amp; Body Care</td>
+<td>/Law &amp; Government/Military</td>
+</tr>
+<tr>
+<td>/Beauty &amp; Fitness/Face &amp; Body Care/Hygiene &amp; Toiletries</td>
+<td>/Law &amp; Government/Public Safety</td>
+</tr>
+<tr>
+<td>/Beauty &amp; Fitness/Face &amp; Body Care/Make-Up &amp; Cosmetics</td>
+<td>/Law &amp; Government/Public Safety/Crime &amp; Justice</td>
+</tr>
+<tr>
+<td>/Beauty &amp; Fitness/Face &amp; Body Care/Perfumes &amp; Fragrances</td>
+<td>/Law &amp; Government/Public Safety/Emergency Services</td>
+</tr>
+<tr>
+<td>/Beauty &amp; Fitness/Face &amp; Body Care/Skin &amp; Nail Care</td>
+<td>/Law &amp; Government/Public Safety/Law Enforcement</td>
+</tr>
+<tr>
+<td>/Beauty &amp; Fitness/Face &amp; Body Care/Unwanted Body &amp; Facial Hair Removal</td>
+<td>/Law &amp; Government/Public Safety/Security Products &amp; Services</td>
+</tr>
+<tr>
+<td>/Beauty &amp; Fitness/Fashion &amp; Style</td>
+<td>/Law &amp; Government/Social Services</td>
+</tr>
+<tr>
+<td>/Beauty &amp; Fitness/Fashion &amp; Style/Fashion Designers &amp; Collections</td>
+<td>/News</td>
+</tr>
+<tr>
+<td>/Beauty &amp; Fitness/Fitness</td>
+<td>/News/Business News</td>
+</tr>
+<tr>
+<td>/Beauty &amp; Fitness/Hair Care</td>
+<td>/News/Business News/Company News</td>
+</tr>
+<tr>
+<td>/Beauty &amp; Fitness/Hair Care/Hair Loss</td>
+<td>/News/Business News/Financial Markets News</td>
+</tr>
+<tr>
+<td>/Beauty &amp; Fitness/Spas &amp; Beauty Services</td>
+<td>/News/Gossip &amp; Tabloid News/Scandals &amp; Investigations</td>
+</tr>
+<tr>
+<td>/Beauty &amp; Fitness/Spas &amp; Beauty Services/Massage Therapy</td>
+<td>/News/Health News</td>
+</tr>
+<tr>
+<td>/Beauty &amp; Fitness/Weight Loss</td>
+<td>/News/Politics</td>
+</tr>
+<tr>
+<td>/Books &amp; Literature</td>
+<td>/News/Sports News</td>
+</tr>
+<tr>
+<td>/Books &amp; Literature/Children&#39;s Literature</td>
+<td>/News/Weather</td>
+</tr>
+<tr>
+<td>/Books &amp; Literature/E-Books</td>
+<td>/Online Communities</td>
+</tr>
+<tr>
+<td>/Books &amp; Literature/Fan Fiction</td>
+<td>/Online Communities/Blogging Resources &amp; Services</td>
+</tr>
+<tr>
+<td>/Books &amp; Literature/Literary Classics</td>
+<td>/Online Communities/Dating &amp; Personals</td>
+</tr>
+<tr>
+<td>/Books &amp; Literature/Poetry</td>
+<td>/Online Communities/Dating &amp; Personals/Matrimonial Services</td>
+</tr>
+<tr>
+<td>/Books &amp; Literature/Writers Resources</td>
+<td>/Online Communities/Dating &amp; Personals/Personals</td>
+</tr>
+<tr>
+<td>/Business &amp; Industrial</td>
+<td>/Online Communities/Dating &amp; Personals/Photo Rating Sites</td>
+</tr>
+<tr>
+<td>/Business &amp; Industrial/Advertising &amp; Marketing/Public Relations</td>
+<td>/Online Communities/File Sharing &amp; Hosting</td>
+</tr>
+<tr>
+<td>/Business &amp; Industrial/Aerospace &amp; Defense/Space Technology</td>
+<td>/Online Communities/Online Goodies</td>
+</tr>
+<tr>
+<td>/Business &amp; Industrial/Agriculture &amp; Forestry</td>
+<td>/Online Communities/Online Goodies/Clip Art &amp; Animated GIFs</td>
+</tr>
+<tr>
+<td>/Business &amp; Industrial/Agriculture &amp; Forestry/Agricultural Equipment</td>
+<td>/Online Communities/Online Goodies/Skins, Themes &amp; Wallpapers</td>
+</tr>
+<tr>
+<td>/Business &amp; Industrial/Agriculture &amp; Forestry/Forestry</td>
+<td>/Online Communities/Online Goodies/Social Network Apps &amp; Add-Ons</td>
+</tr>
+<tr>
+<td>/Business &amp; Industrial/Agriculture &amp; Forestry/Livestock</td>
+<td>/Online Communities/Photo &amp; Video Sharing</td>
+</tr>
+<tr>
+<td>/Business &amp; Industrial/Automotive Industry</td>
+<td>/Online Communities/Photo &amp; Video Sharing/Photo &amp; Image Sharing</td>
+</tr>
+<tr>
+<td>/Business &amp; Industrial/Business Education</td>
+<td>/Online Communities/Social Networks</td>
+</tr>
+<tr>
+<td>/Business &amp; Industrial/Business Finance</td>
+<td>/Online Communities/Virtual Worlds</td>
+</tr>
+<tr>
+<td>/Business &amp; Industrial/Business Finance/Venture Capital</td>
+<td>/People &amp; Society</td>
+</tr>
+<tr>
+<td>/Business &amp; Industrial/Business Operations</td>
+<td>/People &amp; Society/Family &amp; Relationships</td>
+</tr>
+<tr>
+<td>/Business &amp; Industrial/Business Operations/Business Plans &amp; Presentations</td>
+<td>/People &amp; Society/Family &amp; Relationships/Family</td>
+</tr>
+<tr>
+<td>/Business &amp; Industrial/Business Operations/Management</td>
+<td>/People &amp; Society/Family &amp; Relationships/Marriage</td>
+</tr>
+<tr>
+<td>/Business &amp; Industrial/Business Services</td>
+<td>/People &amp; Society/Family &amp; Relationships/Troubled Relationships</td>
+</tr>
+<tr>
+<td>/Business &amp; Industrial/Business Services/Consulting</td>
+<td>/People &amp; Society/Kids &amp; Teens</td>
+</tr>
+<tr>
+<td>/Business &amp; Industrial/Business Services/Corporate Events</td>
+<td>/People &amp; Society/Kids &amp; Teens/Children&#39;s Interests</td>
+</tr>
+<tr>
+<td>/Business &amp; Industrial/Business Services/E-Commerce Services</td>
+<td>/People &amp; Society/Kids &amp; Teens/Teen Interests</td>
+</tr>
+<tr>
+<td>/Business &amp; Industrial/Business Services/Fire &amp; Security Services</td>
+<td>/People &amp; Society/Religion &amp; Belief</td>
+</tr>
+<tr>
+<td>/Business &amp; Industrial/Business Services/Office Services</td>
+<td>/People &amp; Society/Seniors &amp; Retirement</td>
+</tr>
+<tr>
+<td>/Business &amp; Industrial/Business Services/Office Supplies</td>
+<td>/People &amp; Society/Social Issues &amp; Advocacy</td>
+</tr>
+<tr>
+<td>/Business &amp; Industrial/Business Services/Writing &amp; Editing Services</td>
+<td>/People &amp; Society/Social Issues &amp; Advocacy/Charity &amp; Philanthropy</td>
+</tr>
+<tr>
+<td>/Business &amp; Industrial/Chemicals Industry</td>
+<td>/People &amp; Society/Social Issues &amp; Advocacy/Discrimination &amp; Identity Relations</td>
+</tr>
+<tr>
+<td>/Business &amp; Industrial/Chemicals Industry/Cleaning Agents</td>
+<td>/People &amp; Society/Social Issues &amp; Advocacy/Green Living &amp; Environmental Issues</td>
+</tr>
+<tr>
+<td>/Business &amp; Industrial/Chemicals Industry/Plastics &amp; Polymers</td>
+<td>/People &amp; Society/Social Issues &amp; Advocacy/Human Rights &amp; Liberties</td>
+</tr>
+<tr>
+<td>/Business &amp; Industrial/Construction &amp; Maintenance</td>
+<td>/People &amp; Society/Social Issues &amp; Advocacy/Poverty &amp; Hunger</td>
+</tr>
+<tr>
+<td>/Business &amp; Industrial/Construction &amp; Maintenance/Building Materials &amp; Supplies</td>
+<td>/People &amp; Society/Social Issues &amp; Advocacy/Work &amp; Labor Issues</td>
+</tr>
+<tr>
+<td>/Business &amp; Industrial/Energy &amp; Utilities</td>
+<td>/People &amp; Society/Social Sciences</td>
+</tr>
+<tr>
+<td>/Business &amp; Industrial/Energy &amp; Utilities/Electricity</td>
+<td>/People &amp; Society/Social Sciences/Economics</td>
+</tr>
+<tr>
+<td>/Business &amp; Industrial/Energy &amp; Utilities/Oil &amp; Gas</td>
+<td>/People &amp; Society/Social Sciences/Political Science</td>
+</tr>
+<tr>
+<td>/Business &amp; Industrial/Energy &amp; Utilities/Renewable &amp; Alternative Energy</td>
+<td>/People &amp; Society/Social Sciences/Psychology</td>
+</tr>
+<tr>
+<td>/Business &amp; Industrial/Hospitality Industry</td>
+<td>/People &amp; Society/Subcultures &amp; Niche Interests</td>
+</tr>
+<tr>
+<td>/Business &amp; Industrial/Hospitality Industry/Event Planning</td>
+<td>/Pets &amp; Animals</td>
+</tr>
+<tr>
+<td>/Business &amp; Industrial/Hospitality Industry/Food Service</td>
+<td>/Pets &amp; Animals/Animal Products &amp; Services/Pet Food &amp; Supplies</td>
+</tr>
+<tr>
+<td>/Business &amp; Industrial/Industrial Materials &amp; Equipment</td>
+<td>/Pets &amp; Animals/Animal Products &amp; Services/Veterinarians</td>
+</tr>
+<tr>
+<td>/Business &amp; Industrial/Industrial Materials &amp; Equipment/Heavy Machinery</td>
+<td>/Pets &amp; Animals/Pets</td>
+</tr>
+<tr>
+<td>/Business &amp; Industrial/Manufacturing</td>
+<td>/Pets &amp; Animals/Pets/Birds</td>
+</tr>
+<tr>
+<td>/Business &amp; Industrial/Metals &amp; Mining</td>
+<td>/Pets &amp; Animals/Pets/Cats</td>
+</tr>
+<tr>
+<td>/Business &amp; Industrial/Metals &amp; Mining/Precious Metals</td>
+<td>/Pets &amp; Animals/Pets/Dogs</td>
+</tr>
+<tr>
+<td>/Business &amp; Industrial/Pharmaceuticals &amp; Biotech</td>
+<td>/Pets &amp; Animals/Pets/Exotic Pets</td>
+</tr>
+<tr>
+<td>/Business &amp; Industrial/Printing &amp; Publishing</td>
+<td>/Pets &amp; Animals/Pets/Fish &amp; Aquaria</td>
+</tr>
+<tr>
+<td>/Business &amp; Industrial/Retail Trade</td>
+<td>/Pets &amp; Animals/Pets/Horses</td>
+</tr>
+<tr>
+<td>/Business &amp; Industrial/Retail Trade/Retail Equipment &amp; Technology</td>
+<td>/Pets &amp; Animals/Pets/Rabbits &amp; Rodents</td>
+</tr>
+<tr>
+<td>/Business &amp; Industrial/Small Business/MLM &amp; Business Opportunities</td>
+<td>/Pets &amp; Animals/Pets/Reptiles &amp; Amphibians</td>
+</tr>
+<tr>
+<td>/Business &amp; Industrial/Textiles &amp; Nonwovens</td>
+<td>/Pets &amp; Animals/Wildlife</td>
+</tr>
+<tr>
+<td>/Business &amp; Industrial/Transportation &amp; Logistics</td>
+<td>/Real Estate</td>
+</tr>
+<tr>
+<td>/Business &amp; Industrial/Transportation &amp; Logistics/Freight &amp; Trucking</td>
+<td>/Real Estate/Real Estate Listings</td>
+</tr>
+<tr>
+<td>/Business &amp; Industrial/Transportation &amp; Logistics/Mail &amp; Package Delivery</td>
+<td>/Real Estate/Real Estate Listings/Bank-Owned &amp; Foreclosed Properties</td>
+</tr>
+<tr>
+<td>/Business &amp; Industrial/Transportation &amp; Logistics/Maritime Transport</td>
+<td>/Real Estate/Real Estate Listings/Commercial Properties</td>
+</tr>
+<tr>
+<td>/Business &amp; Industrial/Transportation &amp; Logistics/Moving &amp; Relocation</td>
+<td>/Real Estate/Real Estate Listings/Lots &amp; Land</td>
+</tr>
+<tr>
+<td>/Business &amp; Industrial/Transportation &amp; Logistics/Packaging</td>
+<td>/Real Estate/Real Estate Listings/Residential Rentals</td>
+</tr>
+<tr>
+<td>/Business &amp; Industrial/Transportation &amp; Logistics/Parking</td>
+<td>/Real Estate/Real Estate Listings/Residential Sales</td>
+</tr>
+<tr>
+<td>/Business &amp; Industrial/Transportation &amp; Logistics/Rail Transport</td>
+<td>/Real Estate/Real Estate Listings/Timeshares &amp; Vacation Properties</td>
+</tr>
+<tr>
+<td>/Business &amp; Industrial/Transportation &amp; Logistics/Urban Transport</td>
+<td>/Real Estate/Real Estate Services</td>
+</tr>
+<tr>
+<td>/Computers &amp; Electronics</td>
+<td></td>
+</tr>
+<tr>
+<td>/Computers &amp; Electronics/CAD &amp; CAM</td>
+<td>/Reference</td>
+</tr>
+<tr>
+<td>/Computers &amp; Electronics/Computer Hardware</td>
+<td>/Reference/Directories &amp; Listings</td>
+</tr>
+<tr>
+<td>/Computers &amp; Electronics/Computer Hardware/Computer Components</td>
+<td>/Reference/Directories &amp; Listings/Business &amp; Personal Listings</td>
+</tr>
+<tr>
+<td>/Computers &amp; Electronics/Computer Hardware/Computer Drives &amp; Storage</td>
+<td>/Reference/General Reference</td>
+</tr>
+<tr>
+<td>/Computers &amp; Electronics/Computer Hardware/Computer Peripherals</td>
+<td>/Reference/General Reference/Biographies &amp; Quotations</td>
+</tr>
+<tr>
+<td>/Computers &amp; Electronics/Computer Hardware/Desktop Computers</td>
+<td>/Reference/General Reference/Calculators &amp; Reference Tools</td>
+</tr>
+<tr>
+<td>/Computers &amp; Electronics/Computer Hardware/Laptops &amp; Notebooks</td>
+<td>/Reference/General Reference/Dictionaries &amp; Encyclopedias</td>
+</tr>
+<tr>
+<td>/Computers &amp; Electronics/Computer Security</td>
+<td>/Reference/General Reference/Forms Guides &amp; Templates</td>
+</tr>
+<tr>
+<td>/Computers &amp; Electronics/Computer Security/Hacking &amp; Cracking</td>
+<td>/Reference/General Reference/Public Records</td>
+</tr>
+<tr>
+<td>/Computers &amp; Electronics/Consumer Electronics</td>
+<td>/Reference/General Reference/Time &amp; Calendars</td>
+</tr>
+<tr>
+<td>/Computers &amp; Electronics/Consumer Electronics/Audio Equipment</td>
+<td>/Reference/Geographic Reference</td>
+</tr>
+<tr>
+<td>/Computers &amp; Electronics/Consumer Electronics/Camera &amp; Photo Equipment</td>
+<td>/Reference/Geographic Reference/Maps</td>
+</tr>
+<tr>
+<td>/Computers &amp; Electronics/Consumer Electronics/Car Electronics</td>
+<td>/Reference/Humanities</td>
+</tr>
+<tr>
+<td>/Computers &amp; Electronics/Consumer Electronics/Drones &amp; RC Aircraft</td>
+<td>/Reference/Humanities/History</td>
+</tr>
+<tr>
+<td>/Computers &amp; Electronics/Consumer Electronics/Game Systems &amp; Consoles</td>
+<td>/Reference/Humanities/Myth &amp; Folklore</td>
+</tr>
+<tr>
+<td>/Computers &amp; Electronics/Consumer Electronics/GPS &amp; Navigation</td>
+<td>/Reference/Humanities/Philosophy</td>
+</tr>
+<tr>
+<td>/Computers &amp; Electronics/Consumer Electronics/TV &amp; Video Equipment</td>
+<td>/Reference/Language Resources</td>
+</tr>
+<tr>
+<td>/Computers &amp; Electronics/Electronics &amp; Electrical</td>
+<td>/Reference/Language Resources/Foreign Language Resources</td>
+</tr>
+<tr>
+<td>/Computers &amp; Electronics/Electronics &amp; Electrical/Electronic Components</td>
+<td>/Reference/Libraries &amp; Museums</td>
+</tr>
+<tr>
+<td>/Computers &amp; Electronics/Electronics &amp; Electrical/Power Supplies</td>
+<td>/Reference/Libraries &amp; Museums/Museums</td>
+</tr>
+<tr>
+<td>/Computers &amp; Electronics/Enterprise Technology</td>
+<td>/Science</td>
+</tr>
+<tr>
+<td>/Computers &amp; Electronics/Enterprise Technology/Data Management</td>
+<td>/Science/Astronomy</td>
+</tr>
+<tr>
+<td>/Computers &amp; Electronics/Networking</td>
+<td>/Science/Biological Sciences</td>
+</tr>
+<tr>
+<td>/Computers &amp; Electronics/Networking/Data Formats &amp; Protocols</td>
+<td>/Science/Biological Sciences/Neuroscience</td>
+</tr>
+<tr>
+<td>/Computers &amp; Electronics/Networking/Network Monitoring &amp; Management</td>
+<td>/Science/Chemistry</td>
+</tr>
+<tr>
+<td>/Computers &amp; Electronics/Networking/VPN &amp; Remote Access</td>
+<td>/Science/Computer Science</td>
+</tr>
+<tr>
+<td>/Computers &amp; Electronics/Programming</td>
+<td>/Science/Earth Sciences</td>
+</tr>
+<tr>
+<td>/Computers &amp; Electronics/Programming/Java (Programming Language)</td>
+<td>/Science/Earth Sciences/Atmospheric Science</td>
+</tr>
+<tr>
+<td>/Computers &amp; Electronics/Software</td>
+<td>/Science/Earth Sciences/Geology</td>
+</tr>
+<tr>
+<td>/Computers &amp; Electronics/Software/Business &amp; Productivity Software</td>
+<td>/Science/Ecology &amp; Environment</td>
+</tr>
+<tr>
+<td>/Computers &amp; Electronics/Software/Device Drivers</td>
+<td>/Science/Ecology &amp; Environment/Climate Change &amp; Global Warming</td>
+</tr>
+<tr>
+<td>/Computers &amp; Electronics/Software/Internet Software</td>
+<td>/Science/Engineering &amp; Technology</td>
+</tr>
+<tr>
+<td>/Computers &amp; Electronics/Software/Multimedia Software</td>
+<td>/Science/Engineering &amp; Technology/Robotics</td>
+</tr>
+<tr>
+<td>/Computers &amp; Electronics/Software/Operating Systems</td>
+<td>/Science/Mathematics</td>
+</tr>
+<tr>
+<td>/Computers &amp; Electronics/Software/Software Utilities</td>
+<td>/Science/Mathematics/Statistics</td>
+</tr>
+<tr>
+<td>/Finance</td>
+<td>/Science/Physics</td>
+</tr>
+<tr>
+<td>/Finance/Accounting &amp; Auditing</td>
+<td>/Science/Scientific Institutions</td>
+</tr>
+<tr>
+<td>/Finance/Accounting &amp; Auditing/Billing &amp; Invoicing</td>
+<td>/Sensitive Subjects</td>
+</tr>
+<tr>
+<td>/Finance/Accounting &amp; Auditing/Tax Preparation &amp; Planning</td>
+<td>/Shopping</td>
+</tr>
+<tr>
+<td>/Finance/Banking</td>
+<td>/Shopping/Antiques &amp; Collectibles</td>
+</tr>
+<tr>
+<td>/Finance/Credit &amp; Lending</td>
+<td>/Shopping/Apparel</td>
+</tr>
+<tr>
+<td>/Finance/Credit &amp; Lending/Credit Cards</td>
+<td>/Shopping/Apparel/Athletic Apparel</td>
+</tr>
+<tr>
+<td>/Finance/Credit &amp; Lending/Credit Reporting &amp; Monitoring</td>
+<td>/Shopping/Apparel/Casual Apparel</td>
+</tr>
+<tr>
+<td>/Finance/Credit &amp; Lending/Loans</td>
+<td>/Shopping/Apparel/Children&#39;s Clothing</td>
+</tr>
+<tr>
+<td>/Finance/Financial Planning &amp; Management</td>
+<td>/Shopping/Apparel/Clothing Accessories</td>
+</tr>
+<tr>
+<td>/Finance/Financial Planning &amp; Management/Retirement &amp; Pension</td>
+<td>/Shopping/Apparel/Costumes</td>
+</tr>
+<tr>
+<td>/Finance/Grants, Scholarships &amp; Financial Aid</td>
+<td>/Shopping/Apparel/Eyewear</td>
+</tr>
+<tr>
+<td>/Finance/Grants, Scholarships &amp; Financial Aid/Study Grants &amp; Scholarships</td>
+<td>/Shopping/Apparel/Footwear</td>
+</tr>
+<tr>
+<td>/Finance/Insurance</td>
+<td>/Shopping/Apparel/Formal Wear</td>
+</tr>
+<tr>
+<td>/Finance/Insurance/Health Insurance</td>
+<td>/Shopping/Apparel/Headwear</td>
+</tr>
+<tr>
+<td>/Finance/Investing</td>
+<td>/Shopping/Apparel/Men&#39;s Clothing</td>
+</tr>
+<tr>
+<td>/Finance/Investing/Commodities &amp; Futures Trading</td>
+<td>/Shopping/Apparel/Swimwear</td>
+</tr>
+<tr>
+<td>/Finance/Investing/Currencies &amp; Foreign Exchange</td>
+<td>/Shopping/Apparel/Undergarments</td>
+</tr>
+<tr>
+<td>/Finance/Investing/Stocks &amp; Bonds</td>
+<td>/Shopping/Apparel/Women&#39;s Clothing</td>
+</tr>
+<tr>
+<td>/Food &amp; Drink</td>
+<td>/Shopping/Auctions</td>
+</tr>
+<tr>
+<td>/Food &amp; Drink/Beverages</td>
+<td>/Shopping/Classifieds</td>
+</tr>
+<tr>
+<td>/Food &amp; Drink/Beverages/Alcoholic Beverages</td>
+<td>/Shopping/Consumer Resources</td>
+</tr>
+<tr>
+<td>/Food &amp; Drink/Beverages/Coffee &amp; Tea</td>
+<td>/Shopping/Consumer Resources/Consumer Advocacy &amp; Protection</td>
+</tr>
+<tr>
+<td>/Food &amp; Drink/Beverages/Juice</td>
+<td>/Shopping/Consumer Resources/Coupons &amp; Discount Offers</td>
+</tr>
+<tr>
+<td>/Food &amp; Drink/Beverages/Soft Drinks</td>
+<td>/Shopping/Consumer Resources/Product Reviews &amp; Price Comparisons</td>
+</tr>
+<tr>
+<td>/Food &amp; Drink/Cooking &amp; Recipes</td>
+<td>/Shopping/Entertainment Media</td>
+</tr>
+<tr>
+<td>/Food &amp; Drink/Cooking &amp; Recipes/BBQ &amp; Grilling</td>
+<td>/Shopping/Entertainment Media/Entertainment Media Rentals</td>
+</tr>
+<tr>
+<td>/Food &amp; Drink/Cooking &amp; Recipes/Desserts</td>
+<td>/Shopping/Gifts &amp; Special Event Items</td>
+</tr>
+<tr>
+<td>/Food &amp; Drink/Cooking &amp; Recipes/Soups &amp; Stews</td>
+<td>/Shopping/Gifts &amp; Special Event Items/Cards &amp; Greetings</td>
+</tr>
+<tr>
+<td>/Food &amp; Drink/Food</td>
+<td>/Shopping/Gifts &amp; Special Event Items/Flowers</td>
+</tr>
+<tr>
+<td>/Food &amp; Drink/Food &amp; Grocery Retailers</td>
+<td>/Shopping/Gifts &amp; Special Event Items/Gifts</td>
+</tr>
+<tr>
+<td>/Food &amp; Drink/Food/Baked Goods</td>
+<td>/Shopping/Luxury Goods</td>
+</tr>
+<tr>
+<td>/Food &amp; Drink/Food/Breakfast Foods</td>
+<td>/Shopping/Mass Merchants &amp; Department Stores</td>
+</tr>
+<tr>
+<td>/Food &amp; Drink/Food/Candy &amp; Sweets</td>
+<td>/Shopping/Photo &amp; Video Services</td>
+</tr>
+<tr>
+<td>/Food &amp; Drink/Food/Grains &amp; Pasta</td>
+<td>/Shopping/Tobacco Products</td>
+</tr>
+<tr>
+<td>/Food &amp; Drink/Food/Meat &amp; Seafood</td>
+<td>/Shopping/Toys</td>
+</tr>
+<tr>
+<td>/Food &amp; Drink/Food/Snack Foods</td>
+<td>/Shopping/Toys/Building Toys</td>
+</tr>
+<tr>
+<td>/Food &amp; Drink/Restaurants</td>
+<td>/Shopping/Toys/Die-cast &amp; Toy Vehicles</td>
+</tr>
+<tr>
+<td>/Food &amp; Drink/Restaurants/Fast Food</td>
+<td>/Shopping/Toys/Dolls &amp; Accessories</td>
+</tr>
+<tr>
+<td>/Food &amp; Drink/Restaurants/Pizzerias</td>
+<td>/Shopping/Toys/Ride-On Toys &amp; Wagons</td>
+</tr>
+<tr>
+<td>/Food &amp; Drink/Restaurants/Restaurant Reviews &amp; Reservations</td>
+<td>/Shopping/Toys/Stuffed Toys</td>
+</tr>
+<tr>
+<td>/Games</td>
+<td>/Sports</td>
+</tr>
+<tr>
+<td>/Games/Arcade &amp; Coin-Op Games</td>
+<td>/Sports/Animal Sports</td>
+</tr>
+<tr>
+<td>/Games/Board Games</td>
+<td>/Sports/College Sports</td>
+</tr>
+<tr>
+<td>/Games/Board Games/Chess &amp; Abstract Strategy Games</td>
+<td>/Sports/Combat Sports</td>
+</tr>
+<tr>
+<td>/Games/Board Games/Miniatures &amp; Wargaming</td>
+<td>/Sports/Combat Sports/Boxing</td>
+</tr>
+<tr>
+<td>/Games/Card Games</td>
+<td>/Sports/Combat Sports/Martial Arts</td>
+</tr>
+<tr>
+<td>/Games/Card Games/Collectible Card Games</td>
+<td>/Sports/Combat Sports/Wrestling</td>
+</tr>
+<tr>
+<td>/Games/Card Games/Poker &amp; Casino Games</td>
+<td>/Sports/Extreme Sports</td>
+</tr>
+<tr>
+<td>/Games/Computer &amp; Video Games</td>
+<td>/Sports/Extreme Sports/Drag &amp; Street Racing</td>
+</tr>
+<tr>
+<td>/Games/Computer &amp; Video Games/Casual Games</td>
+<td>/Sports/Fantasy Sports</td>
+</tr>
+<tr>
+<td>/Games/Computer &amp; Video Games/Driving &amp; Racing Games</td>
+<td>/Sports/Individual Sports</td>
+</tr>
+<tr>
+<td>/Games/Computer &amp; Video Games/Fighting Games</td>
+<td>/Sports/Individual Sports/Cycling</td>
+</tr>
+<tr>
+<td>/Games/Computer &amp; Video Games/Music &amp; Dance Games</td>
+<td>/Sports/Individual Sports/Golf</td>
+</tr>
+<tr>
+<td>/Games/Computer &amp; Video Games/Sandbox Games</td>
+<td>/Sports/Individual Sports/Gymnastics</td>
+</tr>
+<tr>
+<td>/Games/Computer &amp; Video Games/Shooter Games</td>
+<td>/Sports/Individual Sports/Racquet Sports</td>
+</tr>
+<tr>
+<td>/Games/Computer &amp; Video Games/Simulation Games</td>
+<td>/Sports/Individual Sports/Skate Sports</td>
+</tr>
+<tr>
+<td>/Games/Computer &amp; Video Games/Sports Games</td>
+<td>/Sports/Individual Sports/Track &amp; Field</td>
+</tr>
+<tr>
+<td>/Games/Computer &amp; Video Games/Strategy Games</td>
+<td>/Sports/International Sports Competitions</td>
+</tr>
+<tr>
+<td>/Games/Computer &amp; Video Games/Video Game Emulation</td>
+<td>/Sports/International Sports Competitions/Olympics</td>
+</tr>
+<tr>
+<td>/Games/Family-Oriented Games &amp; Activities</td>
+<td>/Sports/Motor Sports</td>
+</tr>
+<tr>
+<td>/Games/Family-Oriented Games &amp; Activities/Drawing &amp; Coloring</td>
+<td>/Sports/Sporting Goods</td>
+</tr>
+<tr>
+<td>/Games/Family-Oriented Games &amp; Activities/Dress-Up &amp; Fashion Games</td>
+<td>/Sports/Sporting Goods/Sports Memorabilia</td>
+</tr>
+<tr>
+<td>/Games/Gambling</td>
+<td>/Sports/Sporting Goods/Winter Sports Equipment</td>
+</tr>
+<tr>
+<td>/Games/Gambling/Lottery</td>
+<td>/Sports/Sports Coaching &amp; Training</td>
+</tr>
+<tr>
+<td>/Games/Online Games/Massively Multiplayer Games</td>
+<td>/Sports/Team Sports</td>
+</tr>
+<tr>
+<td>/Games/Puzzles &amp; Brainteasers</td>
+<td>/Sports/Team Sports/American Football</td>
+</tr>
+<tr>
+<td>/Games/Roleplaying Games</td>
+<td>/Sports/Team Sports/Australian Football</td>
+</tr>
+<tr>
+<td>/Games/Table Games</td>
+<td>/Sports/Team Sports/Baseball</td>
+</tr>
+<tr>
+<td>/Games/Table Games/Billiards</td>
+<td>/Sports/Team Sports/Basketball</td>
+</tr>
+<tr>
+<td>/Games/Word Games</td>
+<td>/Sports/Team Sports/Cheerleading</td>
+</tr>
+<tr>
+<td>/Health</td>
+<td>/Sports/Team Sports/Cricket</td>
+</tr>
+<tr>
+<td>/Health/Aging &amp; Geriatrics</td>
+<td>/Sports/Team Sports/Hockey</td>
+</tr>
+<tr>
+<td>/Health/Health Conditions</td>
+<td>/Sports/Team Sports/Rugby</td>
+</tr>
+<tr>
+<td>/Health/Health Conditions/AIDS &amp; HIV</td>
+<td>/Sports/Team Sports/Soccer</td>
+</tr>
+<tr>
+<td>/Health/Health Conditions/Allergies</td>
+<td>/Sports/Team Sports/Volleyball</td>
+</tr>
+<tr>
+<td>/Health/Health Conditions/Arthritis</td>
+<td>/Sports/Water Sports</td>
+</tr>
+<tr>
+<td>/Health/Health Conditions/Cancer</td>
+<td>/Sports/Water Sports/Surfing</td>
+</tr>
+<tr>
+<td>/Health/Health Conditions/Diabetes</td>
+<td>/Sports/Water Sports/Swimming</td>
+</tr>
+<tr>
+<td>/Health/Health Conditions/Ear Nose &amp; Throat</td>
+<td>/Sports/Winter Sports</td>
+</tr>
+<tr>
+<td>/Health/Health Conditions/Eating Disorders</td>
+<td>/Sports/Winter Sports/Ice Skating</td>
+</tr>
+<tr>
+<td>/Health/Health Conditions/Endocrine Conditions</td>
+<td>/Sports/Winter Sports/Skiing &amp; Snowboarding</td>
+</tr>
+<tr>
+<td>/Health/Health Conditions/Genetic Disorders</td>
+<td>/Travel</td>
+</tr>
+<tr>
+<td>/Health/Health Conditions/Heart &amp; Hypertension</td>
+<td>/Travel/Air Travel</td>
+</tr>
+<tr>
+<td>/Health/Health Conditions/Infectious Diseases</td>
+<td>/Travel/Air Travel/Airport Parking &amp; Transportation</td>
+</tr>
+<tr>
+<td>/Health/Health Conditions/Neurological Conditions</td>
+<td>/Travel/Bus &amp; Rail</td>
+</tr>
+<tr>
+<td>/Health/Health Conditions/Obesity</td>
+<td>/Travel/Car Rental &amp; Taxi Services</td>
+</tr>
+<tr>
+<td>/Health/Health Conditions/Pain Management</td>
+<td>/Travel/Cruises &amp; Charters</td>
+</tr>
+<tr>
+<td>/Health/Health Conditions/Respiratory Conditions</td>
+<td>/Travel/Hotels &amp; Accommodations</td>
+</tr>
+<tr>
+<td>/Health/Health Conditions/Skin Conditions</td>
+<td>/Travel/Hotels &amp; Accommodations/Vacation Rentals &amp; Short-Term Stays</td>
+</tr>
+<tr>
+<td>/Health/Health Conditions/Sleep Disorders</td>
+<td>/Travel/Specialty Travel</td>
+</tr>
+<tr>
+<td>/Health/Health Education &amp; Medical Training</td>
+<td>/Travel/Tourist Destinations</td>
+</tr>
+<tr>
+<td>/Health/Health Foundations &amp; Medical Research</td>
+<td>/Travel/Tourist Destinations/Beaches &amp; Islands</td>
+</tr>
+<tr>
+<td>/Health/Medical Devices &amp; Equipment</td>
+<td>/Travel/Tourist Destinations/Mountain &amp; Ski Resorts</td>
+</tr>
+<tr>
+<td>/Health/Medical Facilities &amp; Services</td>
+<td>/Travel/Tourist Destinations/Regional Parks &amp; Gardens</td>
+</tr>
+<tr>
+<td>/Health/Medical Facilities &amp; Services/Doctors&#39; Offices</td>
+<td>/Travel/Tourist Destinations/Theme Parks</td>
+</tr>
+<tr>
+<td>/Health/Medical Facilities &amp; Services/Hospitals &amp; Treatment Centers</td>
+<td>/Travel/Tourist Destinations/Zoos-Aquariums-Preserves</td>
+</tr>
+<tr>
+<td>/Health/Medical Facilities &amp; Services/Medical Procedures</td>
+<td></td>
+</tr>
+<tr>
+<td>/Health/Medical Facilities &amp; Services/Physical Therapy</td>
+<td></td>
+</tr>
+<tr>
+<td>/Health/Men&#39;s Health</td>
+<td></td>
+</tr>
+<tr>
+<td>/Health/Mental Health</td>
+<td></td>
+</tr>
+<tr>
+<td>/Health/Mental Health/Anxiety &amp; Stress</td>
+<td></td>
+</tr>
+<tr>
+<td>/Health/Mental Health/Depression</td>
+<td></td>
+</tr>
+<tr>
+<td>/Health/Nursing</td>
+<td></td>
+</tr>
+<tr>
+<td>/Health/Nursing/Assisted Living &amp; Long Term Care</td>
+<td></td>
+</tr>
+<tr>
+<td>/Health/Nutrition</td>
+<td></td>
+</tr>
+<tr>
+<td>/Health/Nutrition/Special &amp; Restricted Diets</td>
+<td></td>
+</tr>
+<tr>
+<td>/Health/Nutrition/Vitamins &amp; Supplements</td>
+<td></td>
+</tr>
+<tr>
+<td>/Health/Oral &amp; Dental Care</td>
+<td></td>
+</tr>
+<tr>
+<td>/Health/Pharmacy</td>
+<td></td>
+</tr>
+<tr>
+<td>/Health/Pharmacy/Drugs &amp; Medications</td>
+<td></td>
+</tr>
+<tr>
+<td>/Health/Public Health</td>
+<td></td>
+</tr>
+<tr>
+<td>/Health/Public Health/Occupational Health &amp; Safety</td>
+<td></td>
+</tr>
+<tr>
+<td>/Health/Reproductive Health</td>
+<td></td>
+</tr>
+<tr>
+<td>/Health/Substance Abuse</td>
+<td></td>
+</tr>
+<tr>
+<td>/Health/Substance Abuse/Drug &amp; Alcohol Testing</td>
+<td></td>
+</tr>
+<tr>
+<td>/Health/Substance Abuse/Drug &amp; Alcohol Treatment</td>
+<td></td>
+</tr>
+<tr>
+<td>/Health/Substance Abuse/Smoking &amp; Smoking Cessation</td>
+<td></td>
+</tr>
+<tr>
+<td>/Health/Substance Abuse/Steroids &amp; Performance-Enhancing Drugs</td>
+<td></td>
+</tr>
+<tr>
+<td>/Health/Vision Care</td>
+<td></td>
+</tr>
+<tr>
+<td>/Health/Vision Care/Eyeglasses &amp; Contacts</td>
+<td></td>
+</tr>
+<tr>
+<td>/Health/Women&#39;s Health</td>
+<td></td>
+</tr>
+</tbody>
