@@ -1,7 +1,4 @@
 # Cloud NLP Evaluation
-[![Build Status - Cirrus][]][Build status]
-[![Gitter Channel][]][Gitter badge]
-[![Twitter handle][]][Twitter badge]
 An automated, experiment-driven evaluation of cloud-based Natural Language Processing services (Google Cloud Natural Language, AWS Comprehend, Watson Natural Language Understanding, Azure Text Analytics).
 
 ## Documentation
