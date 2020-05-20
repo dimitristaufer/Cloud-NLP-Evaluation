@@ -14,4 +14,4 @@ An automated, experiment-driven evaluation of cloud-based Natural Language Proce
 
 ## Contact
 
-Feel free to contact me at 
+Feel free to contact me at [staufer@tu-berlin.de](mailto:staufer@tu-berlin.de)
