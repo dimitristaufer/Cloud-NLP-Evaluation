@@ -1,6 +1,7 @@
 # ☁️ Cloud NLP Evaluation
 [![GitHub Top Language](https://img.shields.io/github/languages/top/dimitristaufer/Cloud-NLP-Evaluation)](https://github.com/dimitristaufer/Cloud-NLP-Evaluation)&nbsp;
-[![CodeFactor](https://www.codefactor.io/repository/github/dimitristaufer/cloud-nlp-evaluation/badge/master)](https://www.codefactor.io/repository/github/dimitristaufer/cloud-nlp-evaluation/overview/master)
+[![CodeFactor](https://www.codefactor.io/repository/github/dimitristaufer/cloud-nlp-evaluation/badge/master)](https://www.codefactor.io/repository/github/dimitristaufer/cloud-nlp-evaluation/overview/master)&nbsp;
+[![GitHub Release](https://img.shields.io/github/v/release/dimitristaufer/Cloud-NLP-Evaluation)](https://github.com/dimitristaufer/Cloud-NLP-Evaluation)
 
 An automated, experiment-driven evaluation of cloud-based Natural Language Processing services (Google Cloud Natural Language, AWS Comprehend, Watson Natural Language Understanding, Azure Text Analytics).
 
