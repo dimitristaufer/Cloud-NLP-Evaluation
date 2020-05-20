@@ -18,6 +18,28 @@ An automated, experiment-driven evaluation of cloud-based Natural Language Proce
 * [IBM CC Dataset (JSON)](https://github.com/dimitristaufer/Cloud-NLP-Evaluation/releases/download/v1.0/CC_IBM.json.gz)
 * [Raw Results (JSON)](https://github.com/dimitristaufer/Cloud-NLP-Evaluation/releases/download/v1.0/Raw_Evaluation_Results.zip)
 
+## Dependencies
+
+* [mongoDB 4.2](https://www.mongodb.com)
+* [pymongo 3.10.1](https://pypi.org/project/pymongo/)
+* [spacy 2.2.4](https://pypi.org/project/spacy/)
+* [neuralcoref 4.0](https://pypi.org/project/neuralcoref/)
+* [pyenchant 3.0.1](https://pypi.org/project/pyenchant/)
+* [google-cloud-language 1.3.0](https://pypi.org/project/google-cloud-language/)
+* [boto3 1.13.13](https://pypi.org/project/boto3/)
+* [ibm-watson 4.4.1](https://pypi.org/project/ibm-watson/)
+* [azure 5.0.0](https://pypi.org/project/azure/)
+* [twython 3.8.2](https://pypi.org/project/twython/)
+* [twitter 1.18.0](https://pypi.org/project/twitter/)
+* [beautifulsoup4 4.9.1](https://pypi.org/project/beautifulsoup4/)
+* [readability-lxml 0.7.1](https://pypi.org/project/readability-lxml/)
+* [hashlib 20081119](https://pypi.org/project/hashlib/)
+* [pyconll 2.2.1](https://pypi.org/project/pyconll/)
+* [nltk 3.5](https://pypi.org/project/nltk/)
+* [psutil 5.7.0](https://pypi.org/project/psutil/)
+* [bson 0.5.9](https://pypi.org/project/bson/)
+* [numpy 1.18.4](https://pypi.org/project/numpy/)
+
 ## Contact
 
 Feel free to contact me at [staufer@tu-berlin.de](mailto:staufer@tu-berlin.de).
