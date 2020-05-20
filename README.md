@@ -8,10 +8,11 @@ An automated, experiment-driven evaluation of cloud-based Natural Language Proce
 
 ## Downloads
 
-* [NER Dataset (JSON)](https://google.com)
-* [CC Dataset (JSON)](https://google.com)
-* [Raw Results (JSON)](https://google.com)
+* [NER Dataset (JSON)](https://github.com/dimitristaufer/Cloud-NLP-Evaluation/releases/download/v1.0/NER.json.gz)
+* [Google CC Dataset (JSON)](https://github.com/dimitristaufer/Cloud-NLP-Evaluation/releases/download/v1.0/CC_Google.json.gz)
+* [IBM CC Dataset (JSON)](https://github.com/dimitristaufer/Cloud-NLP-Evaluation/releases/download/v1.0/CC_IBM.json.gz)
+* [Raw Results (JSON)](https://github.com/dimitristaufer/Cloud-NLP-Evaluation/releases/download/v1.0/Raw_Evaluation_Results.zip)
 
 ## Contact
 
-Feel free to contact me at [staufer@tu-berlin.de](mailto:staufer@tu-berlin.de)
+Feel free to contact me at [staufer@tu-berlin.de](mailto:staufer@tu-berlin.de).
