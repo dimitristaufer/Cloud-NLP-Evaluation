@@ -3,7 +3,7 @@
 [![CodeFactor](https://www.codefactor.io/repository/github/dimitristaufer/cloud-nlp-evaluation/badge/master)](https://www.codefactor.io/repository/github/dimitristaufer/cloud-nlp-evaluation/overview/master)&nbsp;
 [![GitHub Release](https://img.shields.io/github/v/release/dimitristaufer/Cloud-NLP-Evaluation)](https://github.com/dimitristaufer/Cloud-NLP-Evaluation/releases/tag/v1.0)
 
-An automated, experiment-driven evaluation of cloud-based Natural Language Processing services (Google Cloud Natural Language, AWS Comprehend, Watson Natural Language Understanding, Azure Text Analytics).
+An automated, experiment-driven evaluation of cloud-based Natural Language Processing services (Google Cloud Natural Language, Amazon AWS Comprehend, IBM Watson Natural Language Understanding, Microsoft Azure Text Analytics).
 
 ## Documentation
 
