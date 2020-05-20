@@ -6,14 +6,14 @@ An automated, experiment-driven evaluation of cloud-based Natural Language Proce
 
 ## Documentation
 
-* [Ground-Truth Data Collection](https://google.com)
-* [Evaluation Results](https://google.com)
+* [Ground-Truth Data Collection (PDF)](https://google.com)
+* [Evaluation Results (PDF)](https://google.com)
 
 ## Downloads
 
-* [NER Dataset](https://google.com)
-* [CC Dataset](https://google.com)
-* [Raw Results](https://google.com)
+* [NER Dataset (JSON)](https://google.com)
+* [CC Dataset (JSON)](https://google.com)
+* [Raw Results (JSON)](https://google.com)
 
 ## Contact
 
