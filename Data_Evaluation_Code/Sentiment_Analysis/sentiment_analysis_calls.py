@@ -22,24 +22,24 @@ def makeCalls(text, stars):
         Dictionary -- A dictionary containing all four provider's polarity offsets and their time for completion.
     """
     
-    start = time.clock()
+    start = time.time()
     ibm = Watson.analyzeSentiment(text)
-    end = time.clock()
+    end = time.time()
     ibmTFC = end-start  # in seconds
 
-    start = time.clock()
+    start = time.time()
     google = GoogleCloud.analyzeSentiment(text)
-    end = time.clock()
+    end = time.time()
     googleTFC = end-start  # in seconds
 
-    start = time.clock()
+    start = time.time()
     microsoft = Azure.analyzeSentiment(text)
-    end = time.clock()
+    end = time.time()
     microsoftTFC = end-start  # in seconds
 
-    start = time.clock()
+    start = time.time()
     amazon = AWS.analyzeSentiment(text)
-    end = time.clock()
+    end = time.time()
     amazonTFC = end-start  # in seconds
 
     ibmOffset = toYelpScore(float(ibm.value))-stars

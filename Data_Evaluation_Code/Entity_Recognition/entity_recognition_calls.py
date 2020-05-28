@@ -19,24 +19,24 @@ def makeCalls(text):
         Dictionary -- A dictionary containing all four provider's results and their time for completion.
     """
     
-    start = time.clock()
+    start = time.time()
     ibm = Watson.analyzeEntities(text)
-    end = time.clock()
+    end = time.time()
     ibmTFC = end-start  # in seconds
 
-    start = time.clock()
+    start = time.time()
     google = GoogleCloud.analyzeEntities(text)
-    end = time.clock()
+    end = time.time()
     googleTFC = end-start  # in seconds
 
-    start = time.clock()
+    start = time.time()
     microsoft = Azure.analyzeEntities(text)
-    end = time.clock()
+    end = time.time()
     microsoftTFC = end-start  # in seconds
 
-    start = time.clock()
+    start = time.time()
     amazon = AWS.analyzeEntities(text)
-    end = time.clock()
+    end = time.time()
     amazonTFC = end-start  # in seconds
 
     result = {"values": {'ibm': {'entities': ibm.values, 'time_for_completion': round(ibmTFC, decimalPointsTFC)},

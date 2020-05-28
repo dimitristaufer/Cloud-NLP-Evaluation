@@ -17,9 +17,9 @@ def googleMakeCall(text):
         Dictionary -- A dictionary containing the results and the time for completion.
     """
     
-    start = time.clock()
+    start = time.time()
     google = GoogleCloud.classifyContent(text)
-    end = time.clock()
+    end = time.time()
     googleTFC = end-start  # in seconds
     
     # e.g. [{'category': '/Arts & Entertainment/Visual Art & Design/Photographic & Digital Arts', 'confidence': 0.949999988079071}, {'category': '/Computers & Electronics/Consumer Electronics/Camera & Photo Equipment', 'confidence': 0.9399999976158142}, {'category': '/Hobbies & Leisure', 'confidence': 0.9200000166893005}]
@@ -41,9 +41,9 @@ def ibmMakeCall(text):
         Dictionary -- A dictionary containing the results and the time for completion.
     """
     
-    start = time.clock()
+    start = time.time()
     ibm = Watson.classifyContent(text)
-    end = time.clock()
+    end = time.time()
     ibmTFC = end-start  # in seconds
     
     # e.g. [{'category': '/technology and computing/consumer electronics/camera and photo equipment/cameras and camcorders/cameras', 'confidence': 0.999672}, {'category': '/technology and computing/consumer electronics/camera and photo equipment/cameras and camcorders/camera bags', 'confidence': 0.983271}, {'category': '/technology and computing/consumer electronics/camera and photo equipment/cameras and camcorders/camera batteries', 'confidence': 0.973341}]
