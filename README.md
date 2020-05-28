@@ -8,7 +8,7 @@ An automated, experiment-driven evaluation of cloud-based Natural Language Proce
 
 ## Documentation
 
-* [Ground-Truth Data Collection (PDF)](https://google.com)
+* [Ground-Truth Data Collection (PDF)](https://github.com/dimitristaufer/Cloud-NLP-Evaluation/releases/download/v1.0/Ground_Truth_Data_Collection.pdf)
 * [Evaluation Approach (PDF)](https://github.com/dimitristaufer/Cloud-NLP-Evaluation/releases/download/v1.0/Evaluation_Approach.pdf)
 * [Evaluation Results (PDF)](https://github.com/dimitristaufer/Cloud-NLP-Evaluation/releases/download/v1.0/Evaluation_Results.pdf)
 
